@@ -1,6 +1,6 @@
-owner=470741738219372545
-prefix=4
-game=TyPe | 4play
+owner=587277539660136468
+prefix=1
+game=TyPe | 1play
 stayinchannel=true
 songinstatus=false
-token=NTU4MjMyMDg2NTQ5NjI2ODkw.D3T3CA.NJGfLaHGu_8WG2vgpWlY6SuQFeU
+token=NTk0MjYxMDc5MzEyMzAyMTgy.XRZ2yA.qvhLOxqO6jhZd5fcZKAC0tbX9lA
