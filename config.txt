@@ -1,6 +1,6 @@
-owner=587277539660136468
+owner=575791868948774934
 prefix=1
 game= TyPe | 1play
 stayinchannel=true
 songinstatus=false
-token=NTk0MjYxMDc5MzEyMzAyMTgy.XRZ2yA.qvhLOxqO6jhZd5fcZKAC0tbX9lA
+token=NTkxNTYyNjEzOTc3MjUxODQw.XT9NTw.zzuvpI2GxqP0xONqECyjSxOLpwg
