@@ -3,4 +3,4 @@ prefix=1
 game= TyPe | 1play
 stayinchannel=true
 songinstatus=false
-token=NTkxNTYyNjEzOTc3MjUxODQw.XT9NTw.zzuvpI2GxqP0xONqECyjSxOLpwg
+token=NjEyNjY2MDU5MzMzNDM1NDAz.XVlrwA.bxUFZB5eKtjXK4a_qyT1DzlfRBg
